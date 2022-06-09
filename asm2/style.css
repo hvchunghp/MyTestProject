@@ -1,0 +1,25 @@
+body {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#content {
+    float: left;
+    padding-left: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.down {
+    height: 50px;
+    width: 80%;
+}
+
+.search {
+    height: 35px;
+    width: 300px;
+    float: right;
+    border: 1px;
+}
